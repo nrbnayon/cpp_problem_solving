@@ -2,6 +2,9 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello World"
-    return 0
+    cout<<"Hello world"<<endl; //c-console //endl-for new line
+    cout<<"Next line";
+
+    //varialbe 
+    return 0;
 }
