@@ -7,6 +7,10 @@
     "*.css": "tailwindcss",
     "*.sh": "shellscript",
     "ostream": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "xlocale": "cpp",
+    "xstring": "cpp",
+    "vector": "cpp",
+    "sstream": "cpp"
   }
 }
